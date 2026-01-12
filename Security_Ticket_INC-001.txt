@@ -1,0 +1,31 @@
+Ticket ID: INC-001
+User Name: John Smith
+Department: Accounting
+Device: Windows 11 Desktop
+Date/Time Reported: [date]
+
+Issue Summary:
+User reports pop-ups, browser redirects, and slow system performance.
+
+User Interview Notes:
+- User clicked on a pop-up earlier in the day
+- No software intentionally installed
+- Issue began after visiting a non-work-related website
+
+Security Review:
+- Windows Defender checked
+- No active threats detected
+- Security Event Logs reviewed
+- No abnormal login attempts observed
+
+Incident Classification:
+Type: Suspected Malware / Phishing Exposure
+Category: Endpoint Security
+
+Action Taken:
+- Documented findings
+- No remediation performed
+- Escalated to Tier 2/Security team
+
+Status:
+Escalated – Pending Review
