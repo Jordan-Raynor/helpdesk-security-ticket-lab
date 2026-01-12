@@ -4,11 +4,19 @@
 This lab simulates a Tier 1 Help Desk technician handling a security-related support ticket involving suspected malware activity on a user workstation.
 
 ## Skills Demonstrated
-- Security ticket documentation
-- Incident triage and classification
-- Windows Defender alert review
-- Windows Event Viewer (Security logs)
-- Tier 1 escalation procedures
+## Labs Included
+
+### 1. Security Incident Ticketing Lab
+- Documented and triaged a simulated endpoint security incident
+- Reviewed Windows Defender alerts and Security Event Logs
+- Classified incidents and escalated per Tier 1 procedures
+
+### 2. No Internet Connection Troubleshooting Lab
+- Diagnosed a simulated Windows 10 network connectivity issue
+- Used ipconfig, DHCP release/renew, DNS flush, and adapter resets
+- Identified and resolved IP and DNS configuration problems
+- Documented troubleshooting steps and resolution
+
 
 ## Scenario
 A user reports frequent pop-ups, browser redirects, and system slowness after visiting a non-work-related website.
