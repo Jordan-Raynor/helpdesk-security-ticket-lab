@@ -1,0 +1,37 @@
+Lab Title: IT Helpdesk Troubleshooting Lab – No Internet Connection
+
+Scenario:
+A user reports that their Windows 10 workstation has no internet access. The device shows a network connection, but websites will not load.
+
+User Information:
+User Name: Jane Doe
+Department: Operations
+Device: Windows 10 Desktop
+
+Issue Summary:
+User reports inability to access the internet while connected to the network.
+
+Troubleshooting Steps Performed:
+- Verified network connection status
+- Checked IP configuration using ipconfig
+- Performed DHCP release and renew
+- Flushed DNS cache
+- Reset network adapter
+- Tested connectivity using ping and DNS resolution
+
+Findings:
+- System initially had an invalid IP configuration
+- DNS cache contained outdated entries
+
+Resolution:
+- Renewed IP address via DHCP
+- Flushed DNS cache
+- Restored normal network connectivity
+
+Outcome:
+User confirmed internet access restored.
+
+Documentation:
+Issue and resolution documented in a simulated support ticket.
+
+Add no internet connection troubleshooting lab
