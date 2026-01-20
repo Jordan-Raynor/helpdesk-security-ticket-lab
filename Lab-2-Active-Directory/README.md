@@ -40,10 +40,10 @@ This lab reflects common tasks performed by Help Desk and Junior IT Support tech
 ## Screenshots
 
 ### Server Manager – AD DS Installed
-![Server Manager](screenshots/server-manager-ad.png)
+![Server Manager](screenshots/server-manager-ad.png.jpeg)
 
 ### Active Directory Users and Computers
-![ADUC](screenshots/aduc-domain.png)
+![ADUC](screenshots/aduc-domain.png.jpeg)
 
 ### Domain Login
-![Domain Login](screenshots/domain-login.png)
+![Domain Login](screenshots/domain-login.png.jpeg)
