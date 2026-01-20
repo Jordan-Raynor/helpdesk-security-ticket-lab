@@ -37,3 +37,13 @@ This lab reflects common tasks performed by Help Desk and Junior IT Support tech
 - Understanding user authentication issues
 - Troubleshooting login and DNS-related problems
 
+## Screenshots
+
+### Server Manager – AD DS Installed
+![Server Manager](screenshots/server-manager-ad.png)
+
+### Active Directory Users and Computers
+![ADUC](screenshots/aduc-domain.png)
+
+### Domain Login
+![Domain Login](screenshots/domain-login.png)
